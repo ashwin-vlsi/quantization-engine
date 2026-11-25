@@ -217,7 +217,16 @@ The complete project documentation is available here:
 
 ---
 
-## 👥 Team
+## 👥 Team Members
+
+### VLSI NEXUS
+
+- **Sasmitha S P**
+- **Subiksha L**
+- **Ashwin S**
+- **Varsha V R**
+
+Developed as part of the **VconnecTech Engineering Marathon 2026**.
 
 ### VLSI NEXUS
 
