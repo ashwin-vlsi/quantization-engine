@@ -142,12 +142,6 @@ The project includes a Verilog testbench to verify the functionality of the Quan
 
 ---
 
-## 🔬 Physical Design & Analysis
-
-### Floorplan
-
-![Floorplan](images/floorplan.png)
-
 ### Innovus Layout
 
 ![Innovus Layout](images/innovus_layout.png)
